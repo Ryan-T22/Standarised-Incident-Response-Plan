@@ -1,5 +1,8 @@
-# Standarised-Incident-Response-Plan
-A standardised incident response plan for my honours dissertation
+# Standarised Incident Response Plan
+
+<p align="center">
+A creative project for my honours dissertation
+  </p>
 
 ## Description
 <p align="center">
